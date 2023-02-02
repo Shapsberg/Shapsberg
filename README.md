@@ -1,13 +1,13 @@
-<div align=center> Hi there 👋 </div>
+Hi there 👋
 
+<p align=center >
+    <img width=420 height=165 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=shapsberg&count_private=true&bg_color=0000&text_color=509e2f&title_color=&icon_color=ffa600&show_icons=true&border_color=afafaf81&border_radius=12" "alt="https://github.com/shapsberg" />
+    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shapsberg&count_private=true&layout=compact&bg_color=0000&text_color=509e2f&border_color=afafaf81&border_radius=12" />
+</p>
 
-<div align=center display=inline>
-  
-  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=shapsberg&count_private=true&show_icons=true&theme=transparent" />
- 
-  <img width=420 height=165 src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shapsberg&theme=transparent&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=shapsberg&theme=transparent&layout=compact)](https://github.com/shapsberg/github-readme-stats)" />
-
-</div> 
+<p align=center >
+    <img src="https://komarev.com/ghpvc/?username=shapsberg&color=509e2f" "alt="https://github.com/shapsberg" />
+</p>
 
 <!--
 **Shapsberg/shapsberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-https://github.com/anuraghazra/github-readme-stats
 -->
