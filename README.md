@@ -3,13 +3,13 @@
 
 <div align=center display=inline>
   
-  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=Shapsberg&count_private=true&show_icons=true&theme=transparent" />
+  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=shapsberg&count_private=true&show_icons=true&theme=transparent" />
  
-  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shapsberg&theme=transparent&layout=compact" />
+  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shapsberg&theme=transparent&layout=compact" />
 
 </div> 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shapsberg&theme=transparent&layout=compact)](https://github.com/madsemilf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madsemilf&theme=transparent&layout=compact)](https://github.com/madsemilf/github-readme-stats)
 
 <!--
 **Shapsberg/shapsberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
