@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Shapsberg! 
-- 👀 I’m interested in web development and programming.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web-development projects that can enhance my skills.
-- 📫 I can be reached at ashapdesign@gmail.com
+<div align=center> Hi there 👋 </div>
 
-<!---
-Shapsberg/Shapsberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align=center display=inline>
+  
+  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=Shapsberg&count_private=true&show_icons=true&theme=transparent" />
+ 
+  <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shapsberg&theme=transparent&layout=compact" />
+
+</div> 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shapsberg&theme=transparent&layout=compact)](https://github.com/madsemilf/github-readme-stats)
+
+<!--
+**Shapsberg/shapsberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats
+-->
